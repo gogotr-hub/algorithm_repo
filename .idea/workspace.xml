@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="033061c3-619f-4117-8ff1-186c0dd71bca" name="Default Changelist" comment="" />
+    <list default="true" id="033061c3-619f-4117-8ff1-186c0dd71bca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/playground/problem_1032.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem_1110.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_1110.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.problem_1032">
+  <component name="RunManager" selected="Application.problem_1110">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="playground" />
@@ -46,6 +51,13 @@
     <configuration name="problem_1032" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problem_1032" />
       <module name="playground" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_1110" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem_1110" />
+      <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -61,8 +73,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.problem_1032" />
+      <item itemvalue="Application.problem_1110" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.problem_1110" />
         <item itemvalue="Application.problem_1032" />
         <item itemvalue="Application.Main" />
       </list>
@@ -97,6 +115,11 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>9</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problem_1110.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
